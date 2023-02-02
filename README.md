@@ -1,11 +1,11 @@
 # Card Game
-A simple card pairing game, try to pair all cards with as less try as possible!
+A simple card pairing game! Try to pair all the cards with as few tries as possible.
 click [Github Page](https://klu0926.github.io/ac-card-game/) here
 
 ## Screenshot
 ![screenshot](images/screen1.png)
 
 ## Features
-- `pairing` pair cards to win the game
-- `score` max score is 260
-- `times` recording how many times you tried
+- `Pair` Pair cards to win the game in the pairing challenge.
+- `Score` The maximum score you can achieve is 260.
+- `Tries` The number of tries is recorded to track your progress.
